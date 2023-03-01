@@ -1,0 +1,7 @@
+AllCops:
+  Style/Documentation:
+    Enabled: true
+  Naming/MethodName:
+    Enabled: true
+  Layout/LineLength:
+    Max: 120
